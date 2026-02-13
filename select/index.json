@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "NASA",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-02-13T07:32:40.756721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_NASA_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NASA (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_NASA_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nasa (Live)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/03_Nasa_(Live)_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_NASA_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NASA Is On Your Side",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/05_NASA_Is_On_Your_Side_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "Camilo feat. Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/06_NASA_Camilo_feat._Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "Camilo, Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/07_NASA_Camilo,_Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_NASA_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "nasa - live",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_nasa_-_live_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Head of NASA",
+      "artist": "Infected Mushroom",
+      "has_synced": false,
+      "path": "select/10_Head_of_NASA_Infected_Mushroom.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NASA (Instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_NASA_(Instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nasa",
+      "artist": "St. Paul & The Broken Bones",
+      "has_synced": true,
+      "path": "select/12_Nasa_St._Paul_&_The_Broken_Bones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "Warbly Jets",
+      "has_synced": false,
+      "path": "select/13_NASA_Warbly_Jets.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nasa Gang (#Swag)",
+      "artist": "SpaceGhostPurrp",
+      "has_synced": false,
+      "path": "select/14_Nasa_Gang_(_Swag)_SpaceGhostPurrp.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cheating the NASA Space Physical",
+      "artist": "Good Game",
+      "has_synced": true,
+      "path": "select/15_Cheating_the_NASA_Space_Physical_Good_Game.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NASA",
+      "artist": "アリアナ・グランデ",
+      "has_synced": true,
+      "path": "select/16_NASA_アリアナ・グランデ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lijepa nasa",
+      "artist": "Bijelo Dugme",
+      "has_synced": true,
+      "path": "select/17_Lijepa_nasa_Bijelo_Dugme.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lijepa Naša - Remastered",
+      "artist": "Bijelo Dugme",
+      "has_synced": false,
+      "path": "select/18_Lijepa_Naša_-_Remastered_Bijelo_Dugme.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lijepa Naša",
+      "artist": "Bijelo Dugme",
+      "has_synced": false,
+      "path": "select/19_Lijepa_Naša_Bijelo_Dugme.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NASA",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_NASA_ATEEZ.txt"
+    }
+  ]
+}
